@@ -1,0 +1,45 @@
+/* Reset some default styles */
+body, h1, h2, h3, p, ul, li {
+    margin: 0;
+    padding: 0;
+}
+
+/* Global styles */
+body {
+    font-family: Arial, sans-serif;
+}
+
+header {
+    background-color: #333;
+    color:red;
+    padding: 100px;
+}
+
+nav ul {
+    list-style-type: none;
+    display: flex;
+    justify-content: center;
+    background-color:white;
+    padding: 10px 0;
+}
+
+nav li {
+    margin:  15px;
+}
+
+nav a {
+    color: black;
+    text-decoration: black;
+}
+
+main {
+    padding: 20px;
+    text-align: center;
+}
+
+footer {
+    background-color:red;
+    color: blue;
+    text-align: center;
+    padding: 100px;
+}
