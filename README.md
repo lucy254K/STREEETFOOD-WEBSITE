@@ -5,7 +5,7 @@ Welcome to the lucys Street Food Website project! This website showcases a varie
 
 ## Table of Contents
 
-- [Demo](demo)
+- [Demo](#demo)
 - [Project Overview](#project-overview)
 - [Features](#features)
 - [Installation](#installation)
