@@ -5,16 +5,24 @@ Welcome to the lucys Street Food Website project! This website showcases a varie
 
 ## Table of Contents
 
+- [Demo](demo)
 - [Project Overview](#project-overview)
 - [Features](#features)
 - [Installation](#installation)
 - [Technologies Used](#technologies-used)
 - [Contributing](#contributing)
 - [License](#license)
+- [Contact](#contact)
 
 ## Project Overview
 
 The Street Food Website aims to provide a platform for street food vendors to promote their offerings and locations to potential customers. Users can easily browse through different vendors, view their menus, and find their locations on an interactive map.
+
+
+## Demo
+
+Check out the live demo of the Street Food Website [here](https://www.example-streetfoodwebsite.com).
+
 
 ## Features
 
@@ -53,8 +61,8 @@ Contributions are welcome! If you'd like to contribute to the project, please fo
 
 This project is licensed under the [MIT License](LICENSE).
 
----
+## Contact
 
-Feel free to reach out to us at [contact@example-streetfoodwebsite.com](mailto:contact@example-streetfoodwebsite.com) if you have any questions or feedback. We hope you enjoy exploring the diverse world of street food through our website!
+Feel free to reach out to us at [lucy karwitha](lucy.karwitha@student.moringaschool) if you have any questions or feedback. We hope you enjoy exploring the diverse world of street food through our website!
 lucy Karwitha
 
