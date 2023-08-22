@@ -21,7 +21,7 @@ The Street Food Website aims to provide a platform for street food vendors to pr
 
 ## Demo
 
-Check out the live demo of the Street Food Website [here](https://www.example-streetfoodwebsite.com).
+Check out the live demo of the Street Food Website [here](https://lucystreetfoodwebsite.netlify.app).
 
 
 ## Features
