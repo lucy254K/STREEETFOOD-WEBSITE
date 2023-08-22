@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Street Food Gallery</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            text-align: center;
+        }
+        
+        .gallery {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+            grid-gap: 10px;
+            margin: 20px;
+        }
+        
+        .gallery-item {
+            border: 1px solid #ccc;
+            padding: 10px;
+        }
+        
+        .gallery-item img {
+            max-width: 100%;
+            height: auto;
+        }
+        
+        .caption {
+            margin-top: 5px;
+            font-weight: bold;
+        }
+    </style>
+</head>
+<body>
+    <h1>Street Food Gallery</h1>
+    
+    <div class="gallery">
+        <div class="gallery-item">
+            <img src="images/Screenshot (12).png" alt="Street Food 1">
+            <div class="caption">Delicious foods</div>
+        </div>
+        
+        <div class="gallery-item">
+            <img src="images/Screenshot (10).png" alt="Street Food 2">
+            <div class="caption">Mouthwatering foods</div>
+        </div>
+        
+        <div class="gallery-item">
+            <img src="images/Screenshot (11).png" alt="Street Food 3">
+            <div class="caption">Savory foods </div>
+        </div>
+        
+        <!-- Add more gallery items as needed -->
+    </div>
+</body>
+</html>

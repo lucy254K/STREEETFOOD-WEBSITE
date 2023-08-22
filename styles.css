@@ -1,0 +1,100 @@
+/* Reset some default styles */
+body, h1, h2, h3, p, ul, li {
+    margin: 0;
+    padding: 0;
+}
+
+/* Global styles */
+body {
+    font-family: Arial, sans-serif;
+}
+
+header {
+    background-color: #333;
+    color:red;
+    padding: 100px;
+}
+
+nav ul {
+    list-style-type: none;
+    display: flex;
+    justify-content: center;
+    background-color:white;
+    padding: 10px 0;
+}
+
+nav li {
+    margin:  15px;
+}
+
+nav a {
+    color: black;
+    text-decoration: black;
+}
+
+main {
+    padding: 20px;
+    text-align: center;
+}
+;
+/* Global Styles */
+body {
+    font-family: 'Poppins', Arial, sans-serif;
+}
+
+/* About Section */
+.about-section {
+    background-color: #649549;
+    color: #EAAB1B;
+    padding: 50px;
+}
+
+/* Our Menu Section */
+.our-menu-section {
+    background-color: #649549;
+    color: #EAAB1B;
+    padding: 50px;
+}
+
+/* Happy Hour Section */
+.happy-hour-section {
+    background-color: #649549;
+    color: #EAAB1B;
+    padding: 50px;
+}
+
+/* Catering Section */
+.catering-section {
+    background-color: #649549;
+    color: #EAAB1B;
+    padding: 50px;
+}
+
+/* Reservation Section */
+.reservation-section {
+    background-color: #649549;
+    color: #EAAB1B;
+    padding: 50px;
+}
+
+/* Contact Section */
+.contact-section {
+    background-color: #FFD77C;
+    color: #EAAB1B;
+    padding: 50px;
+}
+
+/* Hot Deals Section */
+.hot-deals-section {
+    background-color: #C9ECB5;
+    color: #000;
+    padding: 50px;
+}
+
+/* Footer */
+footer {
+    background-color: #C9ECB5;
+    color: #000;
+    text-align: center;
+    padding: 20px;
+}
