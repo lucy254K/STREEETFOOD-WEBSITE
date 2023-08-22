@@ -7,7 +7,6 @@ Welcome to the lucys Street Food Website project! This website showcases a varie
 
 - [Project Overview](#project-overview)
 - [Features](#features)
-- [Demo](#demo)
 - [Installation](#installation)
 - [Technologies Used](#technologies-used)
 - [Contributing](#contributing)
@@ -22,9 +21,6 @@ The Street Food Website aims to provide a platform for street food vendors to pr
 - Browse and search street food vendors by name, cuisine type, or location.
 - View the happy hour menu
 
-## Demo
-
-Check out the live demo of the Street Food Website [here](https://www.example-streetfoodwebsite.com).
 
 ## Installation
 
