@@ -36,65 +36,10 @@ main {
     padding: 20px;
     text-align: center;
 }
-;
-/* Global Styles */
-body {
-    font-family: 'Poppins', Arial, sans-serif;
-}
 
-/* About Section */
-.about-section {
-    background-color: #649549;
-    color: #EAAB1B;
-    padding: 50px;
-}
-
-/* Our Menu Section */
-.our-menu-section {
-    background-color: #649549;
-    color: #EAAB1B;
-    padding: 50px;
-}
-
-/* Happy Hour Section */
-.happy-hour-section {
-    background-color: #649549;
-    color: #EAAB1B;
-    padding: 50px;
-}
-
-/* Catering Section */
-.catering-section {
-    background-color: #649549;
-    color: #EAAB1B;
-    padding: 50px;
-}
-
-/* Reservation Section */
-.reservation-section {
-    background-color: #649549;
-    color: #EAAB1B;
-    padding: 50px;
-}
-
-/* Contact Section */
-.contact-section {
-    background-color: #FFD77C;
-    color: #EAAB1B;
-    padding: 50px;
-}
-
-/* Hot Deals Section */
-.hot-deals-section {
-    background-color: #C9ECB5;
-    color: #000;
-    padding: 50px;
-}
-
-/* Footer */
 footer {
-    background-color: #C9ECB5;
-    color: #000;
+    background-color:red;
+    color: blue;
     text-align: center;
-    padding: 20px;
+    padding: 100px;
 }
