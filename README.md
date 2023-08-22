@@ -30,7 +30,7 @@ Check out the live demo of the Street Food Website [here](https://www.example-st
 
 To run the Street Food Website locally, follow these steps:
 
-1. Clone this repository: `git clone https://github.com/your-username/street-food-website.git`
+1. Clone this repository: `git clone https://github.com/lucy254K/STREEETFOOD-WEBSITE.git`
 2. Navigate to the project directory: `cd street-food-website`
 3. Install dependencies: `npm install`
 
